@@ -1,0 +1,14 @@
+/*#BF95AC  purple
+#2976A6  blue
+#012E40  navy blue
+#011C26  black
+#175973  dark blue*/
+
+body {
+  margin: 0;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
